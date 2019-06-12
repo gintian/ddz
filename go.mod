@@ -1,4 +1,4 @@
-module ddz
+module github.com/kankanreno/ddz
 
 go 1.12
 
