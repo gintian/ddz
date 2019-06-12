@@ -1,6 +1,6 @@
 # data-desensitization
 
-Data desensitization: mobile phone number, id card number, bank card number, etc.
+Data desensitization: mask mobile phone number, id card number, bank card number, etc.
 
 数据脱敏：手机号、身份证号、银行卡号等。
 
